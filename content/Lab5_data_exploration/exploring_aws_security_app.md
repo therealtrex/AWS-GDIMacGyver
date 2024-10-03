@@ -34,4 +34,4 @@ Additionally, some of the panels allow you to drill down directly to the underly
 
 #### Congruationations on completeing all 5 labs! You are now a certified AWS Splunk / GDI MacGyver! I hope you enjoyed these labs. 
 
-Click <a>[HOME](/README.md) as there is no place like home!</a>
+Click <a>[HOME](/README.md) as there is no place like home!</a> or you can click <a>[BACK](/exploring_data_2.md) to go back a page.</a>
