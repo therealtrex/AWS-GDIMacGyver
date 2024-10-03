@@ -76,4 +76,4 @@ Click `Save To Dashboard`, then click `View Dashboard`
 
 ![image_tag](/static/50_data_exploration/Image_8.png) 
 
-### Click <a>[Next](/content/Lab5_data_exploration/exploring_data_2.md)</a> to continue or if you have had enough click <a>[HOME](/README.md) to go back home.</a>
+### Click <a>[Next](/content/Lab5_data_exploration/exploring_data_2.md)</a> to continue or click <a>[BACK](/exploring_aws_security_app.md) to go back a page.</a>
