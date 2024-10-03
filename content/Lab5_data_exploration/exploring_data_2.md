@@ -81,4 +81,4 @@ Save and view your dashboard again. Your dashboard should now look something lik
 
 #### Congratulations! You have completed this lab. Please proceed to the next lab to explore some already made security dashboards.
 
-### Click <a>[Next](/content/Lab5_data_exploration/exploring_aws_security_app.md)</a> to continue or to continue or click <a>[BACK](/exploring_data_1.md) to go back a page.</a>
+### Click <a>[Next](/content/Lab5_data_exploration/exploring_aws_security_app.md)</a> to continue or to continue or click <a>[BACK](/content/Lab5_data_exploration/exploring_data_1.md) to go back a page.</a>
