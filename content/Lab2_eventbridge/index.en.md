@@ -10,6 +10,6 @@ This lab will go through the following:
 ## Architecture Diagram 
 Below is the high level architecture that you will deploy for this lab:
 
-![image001](/static/40_EventBridge/architecture-EventBridge.png)
+![image001](/static/40_eventbridge/architecture-eventbridge.png)
 
-### Click <a>[Next](/content/Lab2_EventBridge/setup_splunk.md)</a> to continue or click <a>[Back](/README.md) to go back to the beginning</a>
+### Click <a>[Next](/content/Lab2_eventbridge/setup_splunk.md)</a> to continue or click <a>[Back](/README.md) to go back to the beginning</a>
