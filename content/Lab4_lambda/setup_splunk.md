@@ -1,5 +1,5 @@
 # Setup splunk for VPC flow log ingestion
-This first part of the lab will take you through configuring a Splunk Http Event Collector (HEC) token to use for AWS Lambda.
+This first part of the lab will take you through configuring a Splunk HTTP Event Collector (HEC) token to use for AWS Lambda.
 
 >[!NOTE]
 >You already have a Splunk index `aws-data `for storing your AWS data so we won't need to create one for this lab.
