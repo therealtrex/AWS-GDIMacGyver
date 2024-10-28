@@ -1,4 +1,4 @@
-# Setting up Amzaon S3 Event Notrification
+# Setting up Amazon S3 Event Notification
 In this part of the lab you will be adding event notifications to an existing Amazon S3 bucket. This will be used by the Splunk Add-on for AWS to ingest the AWS Config Data. 
 
 ### Setup Event Notification for Amazon S3 Bucket
