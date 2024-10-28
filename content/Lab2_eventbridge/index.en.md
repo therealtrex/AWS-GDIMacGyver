@@ -1,10 +1,10 @@
-# Setup Eventbridge to send Amazon GuardDuty logs to Splunk using native EventBrirdge PUSH method
+# Setup EventBridge to send Amazon GuardDuty logs to Splunk using native EventBridge PUSH method
 In this workshop you will learn how to create Splunk destination as EventBridge Target and configure EventBridge Rules to ingest events from Amazon GuardDuty into Splunk.
 
 This lab will go through the following: 
-- Create a HEC token to use for Eventbridge
-- Setup Splunk as a API destination in Eventbridge
-- Setup Eventbridge Rule for Amazon GuardDuty events
+- Create a HEC token to use for EventBridge
+- Setup Splunk as a API destination in EventBridge
+- Setup EventBridge Rule for Amazon GuardDuty events
 - Validate data is streaming into Splunk from Amazon GuardDuty
 
 ## Architecture Diagram 
