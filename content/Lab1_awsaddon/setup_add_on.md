@@ -79,7 +79,7 @@ Next we want to configure AWS Config input.
 - Under SQS Queue Name, select `SplunkWorkshopQueue` that we created earlier. 
 - `Untick` the `Signature Validate All Events` option
 - Set the index as `aws-data`
-- Leave remainng defaults and click `Add`
+- Leave remaining defaults and click `Add`
 
 >[!IMPORTANT]
 >If you do not untick signature validation all events here then you will get issues and no data coming in later. 
