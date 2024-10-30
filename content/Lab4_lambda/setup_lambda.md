@@ -4,7 +4,8 @@ In this lab we will setup the Lambda function and configure VPC Flow Logs to ing
 ## Deploy Splunk Lambda Processor - Serverless Application
 For this workshop, we developed a serverless application called `splunk-aws-lambda-cloudwatchlogs-processor`
 - From your AWS [console](https://console.aws.amazon.com/serverlessrepo/home?/available-applications) search for and select `Serverless Application Repository`
-- Select `Available applications` 
+- Select `Available applications`
+- Make sure that `Show apps that create custom IAM roles or resource policies` is checked.
 - Search for `splunk-aws-lambda-cloudwatchlogs-processor` under `Public applications` and `select the application` to deploy. See example below:
 
 ![lambda_serverless](/static/30_lambda/serverless.png)
