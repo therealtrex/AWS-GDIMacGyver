@@ -17,7 +17,7 @@ In this part of the lab we will setup the CloudWatch subscription filter on the 
 ![image020](/static/20_firehose/Image020.png)
 
 - Select `Current Account`
-- Under the Kinesis Firehose Delivery Stream select the delivery stream created earlier in the lab. i.e `SplunkWorkshopDeliveryStream`
+- Under the Amazon Data Firehose Stream select the delivery stream created earlier in the lab. i.e `SplunkWorkshopDeliveryStream`
 - Under `Grant Permissions` search for and select `SplunkGDIWorkshopCTrailSubscriptionRole`
 
 ![image021](/static/20_firehose/Image021.png)
